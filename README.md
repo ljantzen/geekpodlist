@@ -1,8 +1,9 @@
 #The ultimate Geek Podcast List
 ===========
 
-As a geek, I enjoy listening to podcasts, not only on technical topics.  This repository contains descriptions of the podcasts I find are of high quality and relevance to geeks.  
-Most are english-language, some are in other languages.  
+As a geek, I enjoy listening to podcasts, not only on technical topics.  This repository contains descriptions of the podcasts I find are of high quality and relevance to geeks.  Most are english-language, some are in other languages.  
+
+I hope you find something of interest here, and welcome pull requests.  Feel free to use my [OPML file](https://github.com/ljantzen/geekpodlist/blob/master/MyUltimateGeekPodcasts.opml)
 
 ## For Developers
 
