@@ -27,6 +27,7 @@
          <outline text="udannet" xmlUrl="http://u-dan.net/udannet?format=rss" type="rss" language="Norwegian"/>
          <outline text="GeekSpeak, KUSP Podcast" xmlUrl="http://www.npr.org/rss/podcast.php?id=510168" type="rss"  language="English"/>
          <outline text="Photography Tips from the Top Floor" xmlUrl="http://feeds.tipsfromthetopfloor.com/tftf" type="rss"  language="English"/>
+         <outline text="Happy Shooting" xmlUrl="http://feeds.happyshooting.de/happyshooting" type="rss"  language="German"/>
          <outline text="You Need A Budget" xmlUrl="http://youneedabudget.libsyn.com/rss" type="rss"  language="English"/>
       </outline>
       <outline text="Secular/atheism">

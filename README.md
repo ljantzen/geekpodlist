@@ -133,6 +133,13 @@ Hannover, Germany based professional photographer Chris Marquhardt produces what
 [Feed](http://feeds.tipsfromthetopfloor.com/tftf)
 [Site](http://www.tipsfromthetopfloor.com)
 
+### Happy Shooting
+
+Hannover, Germany based professional photographer Chris Marquhardt together with Boris Nienke produces the premier german language photography podcast
+
+[Feed](http://feeds.happyshooting.de/happyshooting)
+[Site](http://happyshooting.de/podcast)
+
 ### You Need A Budget 
 
 Everybody needs a budget.  You Need A budget (YNAB) is a windows based budgeting program, and this is its podcast. 
