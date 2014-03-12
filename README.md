@@ -3,7 +3,7 @@
 
 As a geek, I enjoy listening to podcasts, not only on technical topics.  This repository contains descriptions of the podcasts I find are of high quality and relevance to geeks.  Most are english-language, some are in other languages.  
 
-I hope you find something of interest here, and welcome pull requests.  Feel free to use my [OPML file](https://github.com/ljantzen/geekpodlist/blob/master/geekpodlist.opml)
+I hope you find something of interest here, and welcome pull requests.  Feel free to use my [OPML file](https://raw.github.com/ljantzen/geekpodlist/master/geekpodlist.opml)
 
 ## For Developers
 
