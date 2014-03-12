@@ -148,13 +148,6 @@ adaptations of some of the talks for the radio/podcast format.
 [Feed](http://www.npr.org/rss/podcast.php?id=510298)
 [Site](http://www.npr.org/programs/ted-radio-hour/)
 
-### Common Sense with Dan Carlin 
-
-I have only listened to a couple of episodes so far, so I'll reserve comment. 
-
-[Feed](http://feeds.feedburner.com/dancarlin/commonsense?format=xml)
-[Site](http://www.dancarlin.com/disp.php/cs)
-
 ### Forskning.no 
 
 A norwegian language podcast about science news. 
