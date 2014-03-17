@@ -120,6 +120,12 @@ A podcast about curiosity and science.
 [Feed](http://feeds.wnyc.org/radiolab)
 [Site](http://www.radiolab.org/series/podcasts/)
 
+###  Man School Show 
+Man School is a weekly podcast dedicated to men’s interesting, exciting, and difficult personal experiences.  This show is for guys who want to become better men but hate boring how-to’s, forced advice, and so-called “experts.” 
+
+[Feed](http://feeds.soundcloud.com/users/29254752-manschool/tracks)
+[Site](http://manschoolshow.com/)
+
 ###  GeekSpeak, KUSP Podcast 
 KUSP is a community based radio station in Monterey Bay, south of San Jose, California.  GeekSpeek is a weekly radio show/podcast covering issues of interest to geeks. 
 
