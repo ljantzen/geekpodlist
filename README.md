@@ -80,6 +80,14 @@ A group conversation focusing on front-end development, usually involving an int
 [Site](http://javascriptjabber.com/)
 
 
+### Kodsnack
+
+A swedish language podcast for and by developers
+
+[Feed](http://kodsnack.libsyn.com/rss)
+[Site](http://kodsnack.se/)
+
+
 ## Computer Security 
 
 ### Säkerhetspodcasten 

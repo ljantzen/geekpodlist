@@ -17,6 +17,7 @@
          <outline text="The Java Posse" xmlUrl="http://feeds.feedburner.com/javaposse" type="rss"  language="English"/>
          <outline text="Functional Geekery" xmlUrl="http://www.functionalgeekery.com/feed/podcast/" type="rss"  language="English"/>
          <outline text="Javascript Jabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber" type="rss"  language="English"/>
+         <outline text="Kodsnack" xmlUrl="http://kodsnack.libsyn.com/rss" type="rss"  language="Swedish"/>
       </outline>
       <outline text="Computer security">
          <outline text="Säkerhetspodcasten" xmlUrl="http://feeds.feedburner.com/sakerhetspodcasten" type="rss" language="Swedish" />
