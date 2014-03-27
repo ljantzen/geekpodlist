@@ -22,6 +22,7 @@
       <outline text="Computer security">
          <outline text="Säkerhetspodcasten" xmlUrl="http://feeds.feedburner.com/sakerhetspodcasten" type="rss" language="Swedish" />
          <outline text="Security Now!" xmlUrl="http://leo.am/podcasts/sn" type="rss" language="English"/>
+         <outline text="Defensive Security" xmlUrl="http://www.defensivesecurity.org/feed/podcast/" type="rss" language="English"/>
       </outline>
       <outline text="General Geekery">
          <outline text="Forskning.no" xmlUrl="http://feeds.soundcloud.com/users/10932996-forskningno/tracks" type="rss" language="Norwegian"/>

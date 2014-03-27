@@ -104,6 +104,14 @@ Steve Gibson and Leo Laporte discusses security related news and geeky topics in
 [Feed](http://leo.am/podcasts/sn)
 [Site](http://twit.tv/sn)
 
+### Defensive Security
+
+The Defensive Security podcast is an attempt to look at recent security news and pick out lessons we can apply to the organizations we are charged with keeping secure. 
+This podcast is hosted by Jerry Bell (@maliciouslink) and Andrew Kalat (@lerg). 
+
+[Feed](http://www.defensivesecurity.org/feed/podcast/)
+[Site](http://www.defensivesecurity.org/)
+
 
 ## General Geekery 
 
