@@ -136,6 +136,16 @@ A podcast about curiosity and science.
 [Feed](http://feeds.wnyc.org/radiolab)
 [Site](http://www.radiolab.org/series/podcasts/)
 
+### On the media
+
+This weekly podcast explores how the media 'sausage' is made, casts an incisive eye on fluctuations in the marketplace of ideas, and examines threats to the freedom of information and expression in America and abroad. 
+
+[Feed](http://feeds.wnyc.org/onthemedia)
+[Site](http://www.onthemedia.org/podcast/)
+
+
+
+
 ###  Man School Show 
 Man School is a weekly podcast dedicated to men’s interesting, exciting, and difficult personal experiences.  This show is for guys who want to become better men but hate boring how-to’s, forced advice, and so-called “experts.” 
 
