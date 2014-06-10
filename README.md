@@ -112,6 +112,13 @@ This podcast is hosted by Jerry Bell (@maliciouslink) and Andrew Kalat (@lerg).
 [Feed](http://www.defensivesecurity.org/feed/podcast/)
 [Site](http://www.defensivesecurity.org/)
 
+### Risky Biz
+
+Risky Business was established in February, 2007. It takes a lighthearted look at information security news and features. Based in Australia. Hosted by Patrick Gray.
+
+[Feed](http://risky.biz/feeds/risky-business)
+[Site](http://risky.biz/)
+
 
 ## General Geekery 
 
