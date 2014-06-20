@@ -56,22 +56,6 @@ Herding Code is produced by a set of developers on the Microsoft platform.  The 
 [Feed](http://feeds.feedburner.com/HerdingCode)
 [Site](http://herdingcode.com/)
 
-### The Java Posse
-
-The Java Posse is probably the first podcast I started listening to.  It is mainly listed here for sentimental reasons.  
-The show has been lacking in content quality for some time now. The attempt to produce content at the JavaPosse Roundup 
-doesn't work for me, mainly due to sound quality issues. 
-
-[Feed](http://feeds.feedburner.com/javaposse)
-[Site](http://javaposse.com)
-
-### Functional Geekery 
-
-A series of interviews with functional programmers 
-
-[Feed](http://www.functionalgeekery.com/feed/podcast/)
-[Site](http://www.functionalgeekery.com)
-
 ### Javascript Jabber 
 
 A group conversation focusing on front-end development, usually involving an interview. 
@@ -149,15 +133,6 @@ This weekly podcast explores how the media 'sausage' is made, casts an incisive 
 
 [Feed](http://feeds.wnyc.org/onthemedia)
 [Site](http://www.onthemedia.org/podcast/)
-
-
-
-
-###  Man School Show 
-Man School is a weekly podcast dedicated to men’s interesting, exciting, and difficult personal experiences.  This show is for guys who want to become better men but hate boring how-to’s, forced advice, and so-called “experts.” 
-
-[Feed](http://feeds.soundcloud.com/users/29254752-manschool/tracks)
-[Site](http://manschoolshow.com/)
 
 ###  GeekSpeak, KUSP Podcast 
 KUSP is a community based radio station in Monterey Bay, south of San Jose, California.  GeekSpeek is a weekly radio show/podcast covering issues of interest to geeks. 

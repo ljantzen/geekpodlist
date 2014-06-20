@@ -14,8 +14,6 @@
          <outline text="The Changelog" xmlUrl="http://feeds.feedburner.com/changelogshow" type="rss"  language="English"/>
          <outline text="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage" type="rss" />
          <outline text="Herding Code" xmlUrl="http://feeds.feedburner.com/HerdingCode" type="rss" language="English" />
-         <outline text="The Java Posse" xmlUrl="http://feeds.feedburner.com/javaposse" type="rss"  language="English"/>
-         <outline text="Functional Geekery" xmlUrl="http://www.functionalgeekery.com/feed/podcast/" type="rss"  language="English"/>
          <outline text="Javascript Jabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber" type="rss"  language="English"/>
          <outline text="Kodsnack" xmlUrl="http://kodsnack.libsyn.com/rss" type="rss"  language="Swedish"/>
       </outline>
@@ -29,7 +27,6 @@
          <outline text="Forskning.no" xmlUrl="http://feeds.soundcloud.com/users/10932996-forskningno/tracks" type="rss" language="Norwegian"/>
          <outline text="udannet" xmlUrl="http://u-dan.net/udannet?format=rss" type="rss" language="Norwegian"/>
          <outline text="GeekSpeak, KUSP Podcast" xmlUrl="http://www.npr.org/rss/podcast.php?id=510168" type="rss"  language="English"/>
-         <outline text="ManSchool Shoow" xmlUrl="http://feeds.soundcloud.com/users/29254752-manschool/tracks" type="rss"  language="English"/>
          <noutline text="Photography Tips from the Top Floor" xmlUrl="http://feeds.tipsfromthetopfloor.com/tftf" type="rss"  language="English"/>
          <outline text="Happy Shooting" xmlUrl="http://feeds.happyshooting.de/happyshooting" type="rss"  language="German"/>
          <outline text="You Need A Budget" xmlUrl="http://youneedabudget.libsyn.com/rss" type="rss"  language="English"/>
