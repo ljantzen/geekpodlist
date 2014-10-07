@@ -120,6 +120,14 @@ Usually entertaining look at the american society.  High value production.
 [Feed](http://feeds.thisamericanlife.org/talpodcast)
 [Site](http://thisamericanlife.org)
 
+###  Serial
+
+Made by Sara Koenig, from This American Life.  Serial has one story per season, and does a really deeep dive.  
+This season covers the disturbing and fascinating story of Adnan and the murder of his ex-girlfriend.  Evidence suggests his conviction might be a miscarriage of justice. 
+
+[Feed](http://feeds.serialpodcast.org/serialpodcast)
+[Site](http://serialpodcast.org)
+
 ### WNYC's Radiolab
 
 A podcast about curiosity and science. 
