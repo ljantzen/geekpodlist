@@ -16,6 +16,7 @@
          <outline text="Javascript Jabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber" type="rss"  language="English"/>
          <outline text="Adventures in Angular" xmlUrl="http://feeds.feedwrench.com/AdventuresInAngular.rss" type="rss"  language="English"/>
          <outline text="Kodsnack" xmlUrl="http://kodsnack.libsyn.com/rss" type="rss"  language="Swedish"/>
+         <outline text="Developer Tea" xmlUrl="http://feeds.feedburner.com/developertea" type="rss"  language="English"/>
       </outline>
       <outline text="Computer security">
          <outline text="Säkerhetspodcasten" xmlUrl="http://feeds.feedburner.com/sakerhetspodcasten" type="rss" language="Swedish" />
@@ -24,7 +25,6 @@
          <outline text="Risky Biz" xmlUrl="http://risky.biz/feeds/risky-business" /type="rss" language="English"/>
       </outline>
       <outline text="General Geekery">
-         <outline text="Forskning.no" xmlUrl="http://feeds.soundcloud.com/users/10932996-forskningno/tracks" type="rss" language="Norwegian"/>
          <outline text="udannet" xmlUrl="http://u-dan.net/udannet?format=rss" type="rss" language="Norwegian"/>
          <outline text="GeekSpeak, KUSP Podcast" xmlUrl="http://www.npr.org/rss/podcast.php?id=510168" type="rss"  language="English"/>
          <noutline text="Photography Tips from the Top Floor" xmlUrl="http://feeds.tipsfromthetopfloor.com/tftf" type="rss"  language="English"/>

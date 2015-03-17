@@ -69,6 +69,12 @@ A swedish language podcast for and by developers
 [Feed](http://kodsnack.libsyn.com/rss)
 [Site](http://kodsnack.se/)
 
+### Developer Tea
+Developer Tea is the 10 minute podcast for developers.  It is engineered to be a highly-concentrated, short, frequent podcast specifically for developers who like to learn on their tea (and coffee) break.
+
+[Feed](http://feeds.feedburner.com/developertea)
+[Site](http://developertea.com/)
+
 
 ## Computer Security 
 
