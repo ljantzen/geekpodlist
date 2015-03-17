@@ -189,6 +189,36 @@ A norwegian language podcast with interviews of academic personell associated wi
 [Feed](http://u-dan.net/udannet?format=rss)
 [Site](http://u-dan.net)
 
+### Sannhetsministeriet
+
+A norwegian language podcast. Comedian Dag Søraas shows off his serious side.  And his not so serious. 
+
+[Feed](http://podkast.nrk.no/program/sannhetsministeriet.rss)
+[Site](http://radio.nrk.no/serie/sannhetsministeriet)
+
+## Secularism/Atheism 
+
+### Reasonable Doubts 
+
+A group discussion of religious and secular topics with an academic bent. 
+
+[Feed](http://feeds.feedburner.com/reasonabledoubts/Msxh?format=xml)
+[Site](http://freethoughtblogs.com/reasonabledoubts/)
+
+### Saltklypa
+
+Norwegian language podcast on secular issues. 
+
+[Feed](http://saltklypa.no/?feed=podcast)
+[Site](http://saltklypa.no)
+
+### Udannet
+
+A norwegian language podcast with interviews of academic personell associated with the University of Bergen. 
+
+[Feed](http://u-dan.net/udannet?format=rss)
+[Site](http://u-dan.net)
+
 ## Secularism/Atheism 
 
 ### Reasonable Doubts 

@@ -31,6 +31,7 @@
          <outline text="Happy Shooting" xmlUrl="http://feeds.happyshooting.de/happyshooting" type="rss"  language="German"/>
          <outline text="You Need A Budget" xmlUrl="http://youneedabudget.libsyn.com/rss" type="rss"  language="English"/>
          <outline text="Vitendate" xmlUrl="http://www.vitendate.no/feed" type="rss"  language="Norwegian"/>
+         <outline text="Sannhetsministeriet" xmlUrl="http://podkast.nrk.no/program/sannhetsministeriet.rss" type="rss"  language="Norwegian"/>
       </outline>
       <outline text="Secular/atheism">
          <outline text="Reasonable Doubts Podcast" xmlUrl="http://feeds.feedburner.com/reasonabledoubts/Msxh?format=xml" type="rss"  language="English"/>
