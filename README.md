@@ -174,12 +174,12 @@ adaptations of some of the talks for the radio/podcast format.
 [Feed](http://www.npr.org/rss/podcast.php?id=510298)
 [Site](http://www.npr.org/programs/ted-radio-hour/)
 
-### Forskning.no 
+### Vitendate 
 
 A norwegian language podcast about science news. 
 
-[Feed](http://feeds.soundcloud.com/users/10932996-forskningno/tracks)
-[Site](http://www.forskning.no/finn_fram/multimedia/324336)
+[Feed](http://www.vitendate.no/feed/)
+[Site](http://www.vitendate.no/)
 
 ### Udannet
 
