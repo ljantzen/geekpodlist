@@ -9,7 +9,6 @@
       <outline text="For developers">
          <outline text="Hanselminutes" xmlUrl="http://feeds.feedburner.com/Hanselminutes?format=xml" type="rss"  language="English"/>
          <outline text="GitMinutes" xmlUrl="http://feeds.gitminutes.com/gitminutes-podcast" type="rss"  language="English"/>
-         <outline text="Illegal Argument" xmlUrl="http://illegalargument.libsyn.com/rss" type="rss"  language="English"/>
          <outline text="This Developer's Life" xmlUrl="http://feeds.feedburner.com/ThisDevelopersLife" type="rss"  language="English"/>
          <outline text="The Changelog" xmlUrl="http://feeds.feedburner.com/changelogshow" type="rss"  language="English"/>
          <outline text="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage" type="rss" />

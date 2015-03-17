@@ -21,14 +21,6 @@ Former colleague @tfnico has produced a series of interesting interviews with pe
 [Feed](http://feeds.gitminutes.com/gitminutes-podcast)
 [Site](http://www.gitminutes.com)
 
-### Illegal Argument
-
-From the far end of the globe, otherwise knows as New Zealand, @talios and @gregamer produces a semi-regular podcast focuses on jvm-based development tools and practices. 
-Sometimes rambling, sometimes incoherent but mostly entertaining. 
-
-[Feed](http://illegalargument.libsyn.com/rss)
-[Site](http://www.illegalargument.com)
-
 ### This developers life  
 
 Rob Conery and Scott Hanselman has produced an impressive set of episode on most sides of 'being a developer'  A must hear.
