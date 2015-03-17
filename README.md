@@ -23,7 +23,7 @@ Former colleague @tfnico has produced a series of interesting interviews with pe
 
 ### This developers life  
 
-Rob Conery and Scott Hanselman has produced an impressive set of episode on most sides of 'being a developer'  A must hear.
+Rob Conery and Scott Hanselman has produced an impressive set of episode on most sides of 'being a developer'  A must hear. Have been dormant for a long period, but rumours have it there is a new episode in the making. 
 
 [Feed](http://feeds.feedburner.com/ThisDevelopersLife)
 [Site](http://ThisDevelopersLife.com)
@@ -128,6 +128,7 @@ Usually entertaining look at the american society.  High value production.
 
 Made by Sara Koenig, from This American Life.  Serial has one story per season, and does a really deeep dive.  
 This season covers the disturbing and fascinating story of Adnan and the murder of his ex-girlfriend.  Evidence suggests his conviction might be a miscarriage of justice. 
+Season ended somewhat dissapointingly without any firm conclusions.  Start from the beginning, this is a very confusing story with many characters.
 
 [Feed](http://feeds.serialpodcast.org/serialpodcast)
 [Site](http://serialpodcast.org)
