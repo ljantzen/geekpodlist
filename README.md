@@ -133,13 +133,6 @@ A podcast about curiosity and science.
 [Feed](http://feeds.wnyc.org/radiolab)
 [Site](http://www.radiolab.org/series/podcasts/)
 
-### On the media
-
-This weekly podcast explores how the media 'sausage' is made, casts an incisive eye on fluctuations in the marketplace of ideas, and examines threats to the freedom of information and expression in America and abroad. 
-
-[Feed](http://feeds.wnyc.org/onthemedia)
-[Site](http://www.onthemedia.org/podcast/)
-
 ###  GeekSpeak, KUSP Podcast 
 KUSP is a community based radio station in Monterey Bay, south of San Jose, California.  GeekSpeek is a weekly radio show/podcast covering issues of interest to geeks. 
 
