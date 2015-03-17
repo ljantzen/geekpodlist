@@ -212,26 +212,12 @@ Norwegian language podcast on secular issues.
 [Feed](http://saltklypa.no/?feed=podcast)
 [Site](http://saltklypa.no)
 
-### Udannet
 
-A norwegian language podcast with interviews of academic personell associated with the University of Bergen. 
+### Saksynt
 
-[Feed](http://u-dan.net/udannet?format=rss)
-[Site](http://u-dan.net)
+Norwegian language podcast on secular issues. Made by @civix, aka Gunnar Tjomlid 
 
-## Secularism/Atheism 
+[Feed](http://tjomlid.com/category/the-podcast/feed/)
+[Site](http://tjomlid.com)
 
-### Reasonable Doubts 
-
-A group discussion of religious and secular topics with an academic bent. 
-
-[Feed](http://feeds.feedburner.com/reasonabledoubts/Msxh?format=xml)
-[Site](http://freethoughtblogs.com/reasonabledoubts/)
-
-### Saltklypa
-
-Norwegian language podcast on secular issues. 
-
-[Feed](http://saltklypa.no/?feed=podcast)
-[Site](http://saltklypa.no)
 
