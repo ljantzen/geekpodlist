@@ -56,6 +56,12 @@ A group conversation focusing on front-end development, usually involving an int
 [Site](http://javascriptjabber.com/)
 
 
+### Adventures in Angular
+A weekly show dedicated to the AngularJS framework.
+
+[Feed](http://feeds.feedwrench.com/AdventuresInAngular.rss)
+[Site](http://devchat.tv/adventures-in-angular)
+
 ### Kodsnack
 
 A swedish language podcast for and by developers

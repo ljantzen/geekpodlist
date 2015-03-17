@@ -14,6 +14,7 @@
          <outline text="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage" type="rss" />
          <outline text="Herding Code" xmlUrl="http://feeds.feedburner.com/HerdingCode" type="rss" language="English" />
          <outline text="Javascript Jabber" xmlUrl="http://feeds.feedburner.com/JavascriptJabber" type="rss"  language="English"/>
+         <outline text="Adventures in Angular" xmlUrl="http://feeds.feedwrench.com/AdventuresInAngular.rss" type="rss"  language="English"/>
          <outline text="Kodsnack" xmlUrl="http://kodsnack.libsyn.com/rss" type="rss"  language="Swedish"/>
       </outline>
       <outline text="Computer security">
