@@ -204,10 +204,3 @@ Norwegian language podcast on secular issues.
 [Feed](http://saltklypa.no/?feed=podcast)
 [Site](http://saltklypa.no)
 
-### Gi plass til tanken 
-
-A series of interwiews inviting reflection. Norwegian language. 
-
-[Feed](http://feeds.soundcloud.com/users/soundcloud:users:56128822/sounds.rss)
-[Site](http://www.human.no/radio/)
-

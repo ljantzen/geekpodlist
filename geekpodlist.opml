@@ -35,7 +35,6 @@
       <outline text="Secular/atheism">
          <outline text="Reasonable Doubts Podcast" xmlUrl="http://feeds.feedburner.com/reasonabledoubts/Msxh?format=xml" type="rss"  language="English"/>
          <outline text="Saltklypa" xmlUrl="http://saltklypa.no/?feed=podcast" type="rss" />
-         <outline text="Gi plass til tanken" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:56128822/sounds.rss" type="rss" />
       </outline>
       <outline text="Society and politics">
          <outline text="Freakonomics Radio" xmlUrl="http://feeds.feedburner.com/freakonomicsradio" type="rss"  language="English"/>
