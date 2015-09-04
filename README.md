@@ -76,6 +76,13 @@ Developer Tea is the 10 minute podcast for developers.  It is engineered to be a
 [Site](http://developertea.com/)
 
 
+### Bad Voltage
+A podcast on a number of topcis made by people in the linux camp. 
+
+[Feed](http://www.badvoltage.org/feed)
+[Site](http://www.badvoltage.org/)
+
+
 ## Computer Security 
 
 ### Säkerhetspodcasten 
@@ -110,6 +117,14 @@ Risky Business was established in February, 2007. It takes a lighthearted look a
 
 ## General Geekery 
 
+
+### Heres the thing 
+
+The actor Alec Baldwin is a great interviewer with access to interesting people. 
+
+[Feed](http://www.wnyc.org/feeds/shows/heresthething )
+[Site](http://www.wnyc.org/shows/heresthething )
+
 ### Freakonomics Radio 
 
 An entertaining view of the world seen through the eyes of two economists. 
@@ -128,7 +143,7 @@ Usually entertaining look at the american society.  High value production.
 
 Made by Sara Koenig, from This American Life.  Serial has one story per season, and does a really deeep dive.  
 This season covers the disturbing and fascinating story of Adnan and the murder of his ex-girlfriend.  Evidence suggests his conviction might be a miscarriage of justice. 
-Season ended somewhat dissapointingly without any firm conclusions.  Start from the beginning, this is a very confusing story with many characters.
+Season one ended somewhat dissapointingly without any firm conclusions.  Start from the beginning, this is a very confusing story with many characters.
 
 [Feed](http://feeds.serialpodcast.org/serialpodcast)
 [Site](http://serialpodcast.org)
@@ -175,6 +190,13 @@ adaptations of some of the talks for the radio/podcast format.
 [Feed](http://www.npr.org/rss/podcast.php?id=510298)
 [Site](http://www.npr.org/programs/ted-radio-hour/)
 
+### Upvoted by Reddit 
+
+Each episode focuses on a topic that has been upvoted on reddit.  
+
+[Feed](http://upvoted.libsyn.com/rss)
+[Site](http://reddit.com/r/upvoted)
+
 ### Vitendate 
 
 A norwegian language podcast about science news. 
@@ -195,6 +217,13 @@ A norwegian language podcast. Comedian Dag Søraas shows off his serious side.  
 
 [Feed](http://podkast.nrk.no/program/sannhetsministeriet.rss)
 [Site](http://radio.nrk.no/serie/sannhetsministeriet)
+
+### Krisem�te
+
+Funny norwegian language podcast for men over the age of 40. I did not manage to find an RSS feed for this podcast, but PocketCast knew about it. 
+  
+[Site](https://soundcloud.com/krisemote)
+
 
 ## Secularism/Atheism 
 
@@ -219,5 +248,6 @@ Norwegian language podcast on secular issues. Made by @civix, aka Gunnar Tjomlid
 
 [Feed](http://tjomlid.com/category/the-podcast/feed/)
 [Site](http://tjomlid.com)
+
 
 
