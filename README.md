@@ -85,7 +85,7 @@ A podcast on a number of topcis made by people in the linux camp.
 
 ## Computer Security 
 
-### SÃ¤kerhetspodcasten 
+### Sä¤kerhetspodcasten 
 
 A swedish language podcast on computer security. 
 
@@ -218,7 +218,7 @@ A norwegian language podcast. Comedian Dag SÃ¸raas shows off his serious side.  
 [Feed](http://podkast.nrk.no/program/sannhetsministeriet.rss)
 [Site](http://radio.nrk.no/serie/sannhetsministeriet)
 
-### KrisemÃte
+### Krisemøte
 
 Funny norwegian language podcast for men over the age of 40. I did not manage to find an RSS feed for this podcast, but PocketCast knew about it. 
   
