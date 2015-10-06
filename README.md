@@ -213,7 +213,7 @@ A norwegian language podcast with interviews of academic personell associated wi
 
 ### Sannhetsministeriet
 
-A norwegian language podcast. Comedian Dag Søraas shows off his serious side.  And his not so serious. 
+A norwegian language podcast. Comedian Dag S�raas shows off his serious side.  And his not so serious. 
 
 [Feed](http://podkast.nrk.no/program/sannhetsministeriet.rss)
 [Site](http://radio.nrk.no/serie/sannhetsministeriet)
@@ -223,6 +223,17 @@ A norwegian language podcast. Comedian Dag Søraas shows off his serious side.  
 Funny norwegian language podcast for men over the age of 40. I did not manage to find an RSS feed for this podcast, but PocketCast knew about it. 
   
 [Site](https://soundcloud.com/krisemote)
+
+
+### Limetown
+
+Ten years ago, over three hundred men, women and children disappeared from a small town in Tennessee, never to be heard from again.
+In this seven-part podcast, American Public Radio host Lia Haddock asks the question once more, "What happened to the people of Limetown?"
+
+Interesting radio theater in a sci-fi/conspiracy theory setting.  Currently at episode 2.  Start from the beginning. 
+
+[Feed](http://www.limetownstories.com/episodes?format=rss)
+[Site](http://www.limetownstories.com/) 
 
 
 ## Secularism/Atheism 
