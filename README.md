@@ -85,7 +85,7 @@ A podcast on a number of topcis made by people in the linux camp.
 
 ## Computer Security 
 
-### Sä¤kerhetspodcasten 
+### Säkerhetspodcasten 
 
 A swedish language podcast on computer security. 
 
