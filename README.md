@@ -236,6 +236,13 @@ Interesting radio theater in a sci-fi/conspiracy theory setting.  Currently at e
 [Site](http://www.limetownstories.com/) 
 
 
+### Note to self 
+
+Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
+
+[Feed](http://feeds.wnyc.org/notetoself-podcast)
+[Site](http://www.wnyc.org/shows/notetoself/)
+
 ## Secularism/Atheism 
 
 ### Reasonable Doubts 

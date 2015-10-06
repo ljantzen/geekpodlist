@@ -33,6 +33,7 @@
          <outline text="Vitendate" xmlUrl="http://www.vitendate.no/feed" type="rss"  language="Norwegian"/>
          <outline text="Sannhetsministeriet" xmlUrl="http://podkast.nrk.no/program/sannhetsministeriet.rss" type="rss"  language="Norwegian"/>
          <outline text="Limetown stories" xmlUrl="http://www.limetownstories.com/episodes?format=rss" type="rss"  language="English"/>
+         <outline text="Note to self" xmlUrl="http://feeds.wnyc.org/notetoself-podcast" type="rss"  language="English"/>
       </outline>
       <outline text="Secular/atheism">
          <outline text="Reasonable Doubts Podcast" xmlUrl="http://feeds.feedburner.com/reasonabledoubts/Msxh?format=xml" type="rss"  language="English"/>
