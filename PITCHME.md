@@ -1,10 +1,10 @@
 
 ---
-@title Velkommen
+@title[Velkommen]
 Hei
 +++
-@title Hilsning
+@title[Hilsning]
 Hallo
 ---
-@title Farvel
+@title[Farvel]
 Hadet!
